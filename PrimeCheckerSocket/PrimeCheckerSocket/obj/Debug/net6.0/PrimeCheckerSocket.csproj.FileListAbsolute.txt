@@ -1,0 +1,15 @@
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\bin\Debug\net6.0\PrimeCheckerSocket.exe
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\bin\Debug\net6.0\PrimeCheckerSocket.deps.json
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\bin\Debug\net6.0\PrimeCheckerSocket.runtimeconfig.json
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\bin\Debug\net6.0\PrimeCheckerSocket.dll
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\bin\Debug\net6.0\PrimeCheckerSocket.pdb
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.csproj.AssemblyReference.cache
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.AssemblyInfoInputs.cache
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.AssemblyInfo.cs
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.csproj.CoreCompileInputs.cache
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.dll
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\refint\PrimeCheckerSocket.dll
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.pdb
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\PrimeCheckerSocket.genruntimeconfig.cache
+E:\Valencia College\Fall 2022\Software Dev 1\PrimeCheckerSocket\PrimeCheckerSocket\obj\Debug\net6.0\ref\PrimeCheckerSocket.dll
